@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "5lVpV2wFfMo=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\eduar\\Documents\\api_digital\\AdvocaciaDigital.Api\\AdvocaciaDigital.Api.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\eduar\\.nuget\\packages\\microsoft.aspnetcore.openapi\\9.0.5\\microsoft.aspnetcore.openapi.9.0.5.nupkg.sha512",
+    "C:\\Users\\eduar\\.nuget\\packages\\microsoft.openapi\\1.6.17\\microsoft.openapi.1.6.17.nupkg.sha512"
+  ],
+  "logs": []
+}

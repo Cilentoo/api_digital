@@ -23,10 +23,10 @@ jobs:
         dotnet-version: '8.0.x' 
 
     - name: Restore dependencies
-      run: dotnet restore AdvocaciaDigital.Api/AdvocaciaDigital.Api.csproj
+      run: dotnet restore AdvocaciaDigital.Api.csproj
 
     - name: Build
-      run: dotnet build AdvocaciaDigital.Api/AdvocaciaDigital.Api.csproj --no-restore
+      run: dotnet build AdvocaciaDigital.Api.csproj --no-restore
 
     - name: Run tests # Adicione seus comandos de teste aqui, se tiver
       run: echo "No tests defined yet for C# API."
